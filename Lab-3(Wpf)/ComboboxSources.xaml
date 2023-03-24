@@ -16,6 +16,6 @@
         <sys1:Int32>18</sys1:Int32>
         <sys1:Int32>20</sys1:Int32>
         <sys1:Int32>22</sys1:Int32>
-
+        <sys1:Int32>24</sys1:Int32>
     </col:ArrayList>
 </ResourceDictionary>
