@@ -13,8 +13,8 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Menu Margin="5" Padding="5">
-            <MenuItem Header="_Файл" Click="MenuItem_Click">
-                <MenuItem Header="_Открыть"/>
+            <MenuItem Header="_Файл" >
+                <MenuItem Header="_Открыть" Click="MenuItem_Click"/>
                 <MenuItem Header="_Сохранить" Click="MenuItem_Click_1"/>
                 <Separator/>
                 <MenuItem Header="_Закрыть" Click="MenuItem_Click_2" />
